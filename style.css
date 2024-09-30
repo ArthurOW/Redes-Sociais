@@ -43,7 +43,7 @@ footer{
 .grafico-container{
     margin: 5rem;
 }
-.grafico-container{
+.grafico-container__texto{
     font-size: 1.3rem;
     text-align: center;
     padding: 2rem;
